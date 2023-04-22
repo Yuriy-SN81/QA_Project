@@ -81,11 +81,14 @@
    
 }
 
-.title_text {
+/*.title_text {
     text-decoration: none;
-}
+}*/
 
 /*Стиль шрифта*/
 p,  h3 , h2, h4, li {
     font-family: 'Montserrat', sans-serif;
+}
+a {
+    text-decoration: none;
 }
