@@ -64,15 +64,24 @@
        
     }
 
-    .STLC {
-       width: 100px;
-      position: absolute;
-      right: 70px;
-    }
-    .bug {
-        width: 100px;
-      position: absolute;
-      left: 70px;}
+    /*Картинка STLC*/
+.STLC {
+    width: 80px;
+    position: absolute;
+    right: 70px;
+    height: 80px;
+    top:20px;
+    margin-right: -10px;
+  }
+  /*Картинка bug*/
+  .bug {
+    width: 90px;
+    position: absolute;
+    left: 20px;
+    height: 80px;
+    top:20px;
+    margin-left: 10px;
+ }
 
      
     

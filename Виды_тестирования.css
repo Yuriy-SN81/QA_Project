@@ -40,20 +40,29 @@
     margin: 0 auto;
     
 }
+/*Картинка STLC*/
 .STLC {
-    width: 100px;
-   position: absolute;
-   right: 70px;
+    width: 80px;
+    position: absolute;
+    right: 70px;
+    height: 80px;
+    top:20px;
+    margin-right: -10px;
+  }
+  /*Картинка bug*/
+  .bug {
+    width: 90px;
+    position: absolute;
+    left: 20px;
+    height: 80px;
+    top:20px;
+    margin-left: 10px;
  }
- .bug {
-     width: 100px;
-   position: absolute;
-   left: 70px;}
 
    .content2 {
     color: #042a4a;
     width: 1240px;
-    height: 800px;
+    height: 1035px;
     border: 1px solid rgb(17, 1, 1);
     text-align: left;
     position: absolute;
@@ -74,4 +83,9 @@
 
 .title_text {
     text-decoration: none;
+}
+
+/*Стиль шрифта*/
+p,  h3 , h2, h4, li {
+    font-family: 'Montserrat', sans-serif;
 }
