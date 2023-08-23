@@ -23,4 +23,4 @@ elem2.clear()
 elem2.send_keys("Test")
 
 elem2.send_keys(Keys.RETURN)
-time.sleep(3)
+time.sleep(10)
