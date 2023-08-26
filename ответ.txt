@@ -26,6 +26,4 @@ elem2.send_keys(Keys.RETURN)
 <<<<<<< HEAD
 time.sleep(11)
 =======
-time.sleep(7)
->>>>>>> 0b0375bc61a93fd5cdf42732945f77a87628b4e3
 
